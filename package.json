@@ -1,0 +1,15 @@
+{
+  "name": "api-soi-cau-vip",
+  "version": "2.0.0",
+  "description": "API Tài Xỉu VIP - AI Predict + Phân tích nâng cao",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "express": "^4.18.2",
+    "crypto": "^1.0.1",
+    "cors": "^2.8.5"
+  }
+}
